@@ -1,5 +1,5 @@
 # Signature-Recognition
-Signature Recognition using **SVM (Support Vector Machine)** and **HOG (Histogram of Oriented Gradients)** in c++ using opencv library and qt for GUI. 
+Signature Recognition using **SVM (Support Vector Machine)** and **HOG (Histogram of Oriented Gradients)** in C++ using opencv library and Qt for GUI. 
 
 Project is divided in 3 parts- 
 
@@ -10,3 +10,5 @@ Project is divided in 3 parts-
 3. Item Classification using SVM.
 
 4. Item Matching of test signature with training sample images.
+
+![GUI Image](data/signature_soft.jpg)
