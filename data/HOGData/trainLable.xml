@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<trainLable type_id="opencv-matrix">
+  <rows>25</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    1. 1. 1. 1. 1. 2. 2. 2. 2. 2. 3. 3. 3. 3. 3. 4. 4. 4. 4. 4. 5. 5. 5.
+    5. 5.</data></trainLable>
+</opencv_storage>
