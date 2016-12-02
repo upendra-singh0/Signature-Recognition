@@ -11,4 +11,5 @@ Project is divided in 3 parts-
 
 4. Item Matching of test signature with training sample images.
 
+Screenshot of GUI
 ![GUI Image](data/signature_soft.jpg)
